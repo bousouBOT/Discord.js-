@@ -1,0 +1,30 @@
+{
+  "name": "Discord.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "cron": "^1.8.2",
+    "discord-anti-spam": "^2.6.1",
+    "discord.js": "^12.5.3",
+    "discord.js-akinator": "^3.3.1",
+    "discord.js-reaction-controller": "^2.1.1",
+    "dotenv": "^10.0.0",
+    "fetch": "^1.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "0.0.1-security",
+    "image-search-engine": "^1.2.1",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "schedule": "^0.5.0",
+    "yt-search": "^2.10.0",
+    "ytdl-core": "^4.9.0"
+  }
+}
